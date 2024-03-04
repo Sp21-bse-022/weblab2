@@ -1,6 +1,8 @@
 body{
-    width: 375px; 
+    width: 375px;
     height: 604px;
+    
+
 }
 header{
     width: 375px;
@@ -11,7 +13,7 @@ header{
 }
 .mylogo{
     font-family: poppins;
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 18px;
     line-height: 20px;
     color: #6070FF;
@@ -22,5 +24,51 @@ header{
     height: 24px;
     padding-top: 10px;
     padding-right: 20px;
+}
+.headliner{
+    background-image: url(/portfolio/Assets/header-shapes\ mobile@2x.png);
+    width: 375px;
+    height: 604px;
+    top: 92px;
+    padding: 114px 24px 11px 24px;
+    gap: 12px;
+    background-repeat:no-repeat ;
+    display: grid;
+    background-size: cover;
+}
+.headlinertext{
+    width: 336px;
+    height: 31px;
+    font-family: poppins;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 42px;
+    color: #172b4d;
+    
+}
+.text1{
+    width: 336px;
+    height: 92px;
+    font-family: poppins;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 28px;
+    color: #172b4d;
+}
+.p2{
+    font-family: poppins;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #7F8CFF;
+    width: 121px;
+    height: 67px;
+    gap: 16px;
+
+}
+.socialmedialogos{
+    width: 170.17px;
+    height: 20px;
+
 }
 
