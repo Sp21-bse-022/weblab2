@@ -1,32 +1,32 @@
 body {
     width: 375px;
     height: 604px;
-}
-
-header {
+  }
+  
+  header {
     width: 375px;
     height: 44px;
     display: flex;
     justify-content: space-between;
-}
-
-.mylogo {
-    font-family: poppins;
+  }
+  
+  .mylogo {
+    font-family: poppins, sans-serif;
     font-weight: 400;
     font-size: 18px;
     line-height: 20px;
-    color: #6070FF;
+    color: #6070ff;
     padding-left: 20px;
-}
-
-.imagemenuicon {
+  }
+  
+  .imagemenuicon {
     width: 24px;
     height: 24px;
     padding-top: 10px;
     padding-right: 20px;
-}
-
-.headliner {
+  }
+  
+  .headliner {
     background-image: url(/portfolio/Assets/header-shapes\ mobile@2x.png);
     width: 375px;
     height: 604px;
@@ -36,40 +36,40 @@ header {
     background-repeat: no-repeat;
     display: grid;
     background-size: cover;
-}
-
-.headlinertext {
-    width: 336px;
-    height: 31px;
-    font-family: poppins;
+  }
+  
+  .headlinertext {
+    width: 352px;
+    height: 49px;
+    font-family: poppins, sans-serif;
     font-weight: 700;
     font-size: 52px;
     line-height: 42px;
     color: #172b4d;
-}
-
-.text1 {
-    width: 336px;
-    height: 92px;
-    font-family: poppins;
+  }
+  
+  .text1 {
+    width: 338px;
+    height: 160px;
+    font-family: poppins, sans-serif;
     font-weight: 500;
     font-size: 19px;
     line-height: 28px;
     color: #172b4d;
-}
-
-.p2 {
-    font-family: poppins;
+  }
+  
+  .p2 {
+    font-family: poppins, sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
-    color: #7F8CFF;
-    width: 121px;
-    height: 67px;
+    color: #7f8cff;
+    width: 127px;
+    height: 0px;
     gap: 16px;
-}
-
-.socialmedialogos {
+  }
+  
+  .socialmedialogos {
     width: 170.17px;
-    height: 20px;
-}
+    height: 150px;
+  }
